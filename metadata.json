@@ -1,0 +1,7 @@
+{
+  "name": "CyberShield SOC - Cybersecurity Operations & Threat Intelligence",
+  "description": "Enterprise Security Operations Center platform featuring global threat monitoring, real-time anomaly detection, incident response playbooks, and tactical command screens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
